@@ -32,7 +32,7 @@ py_cpuinfo==9.0.0
 pycocotools==2.0.10
 pytest==8.4.2
 pytubefix==10.0.0
-PyYAML==6.0.1
+PyYAML==6.0.3
 PyYAML==6.0.3
 ray==2.49.2
 Requests==2.32.5
