@@ -7,7 +7,7 @@ duckdb==1.4.1
 dvclive==3.48.5
 flatbuffers==25.9.23
 hub_sdk==0.0.24
-ipython==8.12.3
+ipython==9.6.0
 lancedb==0.25.2
 lap==0.5.12
 lvis==0.5.3
