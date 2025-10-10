@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ### Val
 
 * Configure your dataset path in `val.py` for testing
-* Run `yolo val model = yolov8n.pt/YOLO-SAG.pt data = $.yaml` for valing
+* Run `yolo val model = yolov11s.pt/PG-YOLO.pt data = $.yaml` for valing
 
 `$` represents the name of the yaml file
 
