@@ -51,7 +51,7 @@ tensorrt==10.13.3.9
 tflite_runtime==2.14.0
 tflite_support==0.4.4
 torch==2.4.1
-torchvision==0.19.1
+torchvision==0.23.0
 tqdm==4.66.5
 transformers==4.57.0
 tritonclient==2.61.0
