@@ -27,7 +27,7 @@ paddle==1.1.0
 pafy==0.5.5
 pandas==2.3.3
 Pillow==11.3.0
-psutil==6.0.0
+psutil==7.1.0
 py_cpuinfo==9.0.0
 pycocotools==2.0.10
 pytest==8.4.2
