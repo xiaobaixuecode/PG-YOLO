@@ -55,7 +55,7 @@ torchvision==0.19.1
 tqdm==4.66.5
 transformers==4.57.0
 tritonclient==2.61.0
-ultralytics_thop==2.0.8
+ultralytics_thop==2.0.17
 wandb==0.22.2
 x2paddle==1.6.0
 yt_dlp==2025.9.26
