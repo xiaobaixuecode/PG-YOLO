@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 `$` represents the name of the yaml file
 
-The model can autonomously choose between yolov8n.pt or YOLO-SAG.pt.
+The model can autonomously choose between yolov11s.pt or PG-YOLO.pt.
 
 ### Reference
 
