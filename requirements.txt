@@ -53,7 +53,7 @@ tflite_support==0.4.4
 torch==2.4.1
 torchvision==0.19.1
 tqdm==4.66.5
-transformers==4.57.0
+transformers==4.57.1
 tritonclient==2.61.0
 ultralytics_thop==2.0.8
 wandb==0.22.2
