@@ -1,7 +1,7 @@
 albumentations==2.0.8
 beautifulsoup4==4.14.2
 clip==0.2.0
-comet_ml==3.53.1
+comet_ml==3.53.2
 coremltools==8.3.0
 duckdb==1.4.1
 dvclive==3.48.5
