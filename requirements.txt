@@ -50,7 +50,7 @@ tensorflowjs==4.22.0
 tensorrt==10.13.3.9
 tflite_runtime==2.14.0
 tflite_support==0.4.4
-torch==2.4.1
+torch==2.9.0
 torchvision==0.19.1
 tqdm==4.66.5
 transformers==4.57.0
