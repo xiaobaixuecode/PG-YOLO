@@ -15,7 +15,7 @@ matplotlib==3.10.7
 mss==10.1.0
 ncnn==1.0.20250916
 nncf==2.18.0
-numpy==2.3.3
+numpy==2.3.4
 onnx==1.19.1
 onnx2tf==1.28.2
 onnxruntime==1.23.1
